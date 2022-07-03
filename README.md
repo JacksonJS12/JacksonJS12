@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## Shortly About Me 
 - I am Deniz Ivanov 
 - I'm C# Developer in making 
-I study in SoftUni, trying to learn something new daly 
+- I study in SoftUni, trying to learn something new daly 
