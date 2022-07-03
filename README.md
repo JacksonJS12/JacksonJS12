@@ -1,6 +1,6 @@
 # Hello there 👋
 ## Shortly About Me 
-- I am Deniz Ivanov 
+- I am ### Deniz ### Ivanov 
 - I'm C# Developer in making ✨
 - I study in SoftUni, trying to learn something new daly 🙏
 - Currently I'm looking for a remote job 🌎
