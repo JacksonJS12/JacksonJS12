@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **JacksonJS12/JacksonJS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Shortly About Me 
+I am Deniz Ivanov 
+I'm C# Developer in making 
+I study in SoftUni, trying to learn something new daly 
