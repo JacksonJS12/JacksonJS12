@@ -5,7 +5,7 @@
 - I study in SoftUni, trying to learn something new daily 🙏
 - Currently I'm looking for a remote job 🌎
 - You can reach me: d.ivan0v.6100@gmail.com 📝
-
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacksonJS12&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
