@@ -4,7 +4,7 @@
 - I'm C# Developer in making ✨
 - I study in SoftUni, trying to learn something new daily 🙏
 - Currently I'm looking for a remote job 🌎
-- You can reach me: d.ivan0v.6100@gmail.com 📝![download](https://user-images.githubusercontent.com/99989417/178599724-02f17c04-71fe-430d-93ad-e65ba2db2bea.jpg)
+- You can reach me: d.ivan0v.6100@gmail.com 📝
 
 
 ### :fire: My Stats:
