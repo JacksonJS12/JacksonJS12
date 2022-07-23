@@ -2,7 +2,7 @@
 ## Shortly About Me 
 - I am Deniz Ivanov, 16y.o.
 - I'm C# Developer in making ✨
-- I study in SoftUni, also I trying to learn something new daily 🙏
+- I study in SoftUni, I also try to learn something new daily 🙏
 - Currently I'm looking for more experience, 
   I'm up to for work or for some tasks to do for FREE 🌎
 - You can reach me: d.ivan0v.6100@gmail.com 📝
