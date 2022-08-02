@@ -4,7 +4,7 @@
 - I'm C# Developer in making ✨
 - I study in SoftUni, I also try to learn something new daily 🙏
 - Currently I'm looking for more experience, 
-  I'm up to work or for some tasks to do for FREE 🌎
+  I'm up to work or do some tasks to do for FREE 🌎
 - You can reach me: d.ivan0v.6100@gmail.com 📝
 
 ### :fire: My Stats:
