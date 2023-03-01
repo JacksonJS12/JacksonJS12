@@ -1,6 +1,6 @@
 # Hello there 👋
 ## Shortly About Me 
-- I am Deniz Ivanov, 16y.o.
+- I am Deniz Ivanov, 17y.o.
 - I'm Software Developer in making ✨
 - I study into Professional High School, specialization in Computer Engineering and Technology 
 - I also study in SoftUni, I try to learn something new daily 🙏
