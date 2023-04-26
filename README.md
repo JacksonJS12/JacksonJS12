@@ -2,10 +2,11 @@
 ## Shortly About Me 
 - I am Deniz Ivanov
 - I'm Software Engineer in making ✨
-- I study into Professional High School, specialization in Computer Engineering and Technology 
-- I also study in SoftUni, I try to learn something new daily 🙏
-- Currently I'm looking for more experience, 
-  I'm up to work or do some tasks for FREE 🌎
+- Currently studying in SoftUni looking for more work experience and to get more familiar with new technologies and people.
+- Interested in robotics and IoT 
+
+
+
 - You can reach me: d.ivan0v.6100@gmail.com 📝
 
 ### :fire: My Stats:
