@@ -1,7 +1,3 @@
-[1]: d.ivan0v.6100@gmail.com 
-[2]: [https://www.linkedin.com/in/nomi-vos-097aa082](https://www.instagram.com/denkataden32/)
-[3]: https://www.linkedin.com/in/deniz-ivanov/
-[4]: https://resume.io/r/EaDuZLcja
 
 # Hello there 👋
 ## Shortly About Me 
@@ -9,11 +5,6 @@
 - I'm Software Engineer in making ✨
 - Currently studying in SoftUni looking for more work experience and to get more familiar with new technologies and people.
 - Interested in robotics and IoT 
-- You can reach me: 
-[![email](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/1ef9b484-27fd-4dd2-b82b-7bc92ef7fc7e)][1] 
-[![instagram](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/55742ac1-2c4f-4fa6-bbee-d5ce5ecf8d23)][2] 
-[![linkedin](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/6bc11c99-b183-4e06-ab34-e3e20747df74)][3]
-[![cv](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/1bce9d6b-0dc8-430e-b321-44bf30f87742)][4]
 
 - Technologies </br>
 ![c-sharp](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/02d62fed-2cf1-4f96-9214-68a1b9b66858)
