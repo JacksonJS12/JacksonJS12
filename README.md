@@ -12,8 +12,7 @@
 ![js](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/5307fe8c-e630-4ff3-87d6-e3efd50df348)
 ![html-5](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/0a135f49-ef95-4ea8-99d7-b82bd348c062)
 ![css-3](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/19a27a5e-39ea-433e-acc3-4da7520139c8)
-![database](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/030828b9-40a7-4fca-a535-55b9e1dd8d6b)
-![git](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/7825df48-7004-42bb-adbe-1f4f407c25de)
+![database](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/030828b9-40a7-4fca-a535-55b9e1dd8d6)
 
 ---
 ### :fire: My Stats:
