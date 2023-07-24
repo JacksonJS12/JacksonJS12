@@ -24,7 +24,9 @@
 <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" />
 </a>
 </p>
+  
 ---
+  
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacksonJS12&theme=elegant)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonJS12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
