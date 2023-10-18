@@ -3,7 +3,8 @@
 ## Shortly About Me 
 - I am Deniz Ivanov
 - I'm Software Engineer in making ✨
-- Currently studying in SoftUni looking for more work experience and to get more familiar with new technologies and people.
+- Presently finished studying in SoftUni looking for more work experience and to get more familiar with new technologies and people.
+- You can find my portfolio at my LinkedIn profile 
 - Interested in robotics and IoT 
 - Technologies </br>
 ![c-sharp](https://github.com/JacksonJS12/JacksonJS12/assets/99989417/02d62fed-2cf1-4f96-9214-68a1b9b66858)
