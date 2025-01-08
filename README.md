@@ -2,7 +2,7 @@
 
 ## About Me
 - **Name**: Deniz Ivanov
-- **Occupation**: Software Developer Intern ✨
+- **Occupation**: Software Developer and Team Lead at [SiT - Shumen Institute of Technology](https://shumen-it.com/) ✨
 - **Goals**: Eager to gain practical experience, expand my knowledge of cutting-edge technologies, and connect with industry professionals.
 - **Interests**: Robotics and IoT
 - **Portfolio**: [LinkedIn](https://www.linkedin.com/in/deniz-ivanov/)
